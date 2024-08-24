@@ -1,49 +1,54 @@
-# Getting Started with Create React App
+# ABJ. News App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ABJ. News App is a simple React-based web application that fetches and displays the latest news articles from various categories using the [GNews API](https://gnews.io/). The app allows users to search for news by category or keyword and displays the results in a responsive, user-friendly interface.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Category-based News:** Browse news articles by categories like World, Business, Technology, Sports, and Entertainment.
+- **Search Functionality:** Search for news articles by entering a keyword.
+- **Responsive Design:** The application is designed to work seamlessly across devices of various screen sizes.
+- **Pagination:** Display a limited number of articles per page with the ability to navigate between pages.
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React:** A JavaScript library for building user interfaces.
+- **React Bootstrap:** A library that provides React components built using Bootstrap for easy UI design.
+- **GNews API:** A simple and fast way to fetch news articles.
+- **CSS:** For custom styling.
+- **Node:** For gaining knowledge.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Usage
 
-### `npm test`
+- **Browsing Categories:** Click on the "Categories" dropdown in the navigation bar to select a news category.
+- **Searching for News:** Enter a keyword in the search bar and click the "Search" button to find related news articles.
+- **Pagination:** Use the pagination controls at the bottom of the page to navigate through the available news articles.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## API Integration
 
-### `npm run build`
+This app uses the [GNews API](https://gnews.io/) to fetch the latest news articles. Ensure you have a valid API key from GNews and include it in your `.env` file as shown above.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contributing
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Contributions are welcome! If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## License
 
-### `npm run eject`
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Acknowledgements
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [React](https://reactjs.org/) - The JavaScript library used to build the app.
+- [GNews API](https://gnews.io/) - The API used to fetch news articles.
+- [React Bootstrap](https://react-bootstrap.github.io/) - The UI library used for styling the app.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ### `ScreenShots`
 ![Screenshot 2024-08-24 150105](https://github.com/user-attachments/assets/9c551931-5122-4ae2-abec-ffb9426edad8)
 
 ![Screenshot 2024-08-24 150240](https://github.com/user-attachments/assets/313fd075-262d-4e87-832e-355764e7d993)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contact
+
+If you have any questions or need further assistance, feel free to reach out to me at abhayjasrotia124@gmail.com "https://www.linkedin.com/in/abhay-jasrotia-907487236/"
+
