@@ -40,7 +40,9 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ### `ScreenShots`
+![Screenshot 2024-08-24 150105](https://github.com/user-attachments/assets/9c551931-5122-4ae2-abec-ffb9426edad8)
 
+![Screenshot 2024-08-24 150240](https://github.com/user-attachments/assets/313fd075-262d-4e87-832e-355764e7d993)
 
 ### `npm run build` fails to minify
 
