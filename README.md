@@ -1,15 +1,15 @@
-# ABJ. News App
+# 📰ABJ. News App
 
 ABJ. News App is a simple React-based web application that fetches and displays the latest news articles from various categories using the [GNews API](https://gnews.io/). The app allows users to search for news by category or keyword and displays the results in a responsive, user-friendly interface.
 
-## Features
+## 🦾Features
 
 - **Category-based News:** Browse news articles by categories like World, Business, Technology, Sports, and Entertainment.
 - **Search Functionality:** Search for news articles by entering a keyword.
 - **Responsive Design:** The application is designed to work seamlessly across devices of various screen sizes.
 - **Pagination:** Display a limited number of articles per page with the ability to navigate between pages.
 
-## Technologies Used
+## 🚀Technologies Used
 
 - **React:** A JavaScript library for building user interfaces.
 - **React Bootstrap:** A library that provides React components built using Bootstrap for easy UI design.
@@ -17,17 +17,17 @@ ABJ. News App is a simple React-based web application that fetches and displays 
 - **CSS:** For custom styling.
 - **Node:** For gaining knowledge.
 
-## Usage
+## 🥊Usage
 
 - **Browsing Categories:** Click on the "Categories" dropdown in the navigation bar to select a news category.
 - **Searching for News:** Enter a keyword in the search bar and click the "Search" button to find related news articles.
 - **Pagination:** Use the pagination controls at the bottom of the page to navigate through the available news articles.
 
-## API Integration
+## ☑API Integration
 
 This app uses the [GNews API](https://gnews.io/) to fetch the latest news articles. Ensure you have a valid API key from GNews and include it in your `.env` file as shown above.
 
-## Contributing
+## 🖐Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
 
